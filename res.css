@@ -1,0 +1,20 @@
+[class*="col-"]{
+    width: 100%;
+}
+.layout{
+    display: block;
+    height: 800px;
+    width: 90%;
+}
+.img_sec{
+    height: 300px;
+}
+.img_sec img{
+    width: 250px;
+}
+.img_sec:hover > h3{
+    opacity: 1;
+    top: 85%;
+.login_sec h1{
+    margin: 20px;
+}
